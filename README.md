@@ -1,7 +1,6 @@
 <h1>Hello there, I'm Vivek!</h1>
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/vivekalhat)
-[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vivekalhat14@gmail.com)](mailto:vivekalhat14@gmail.com)
 
 <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'>
 
