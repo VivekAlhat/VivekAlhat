@@ -10,7 +10,7 @@ I am from Pune, Maharashtra. Currently I am doing B.E in Computer Science from M
 
 - Main Languages : C++, Java, Javascript, HTML, CSS
 - Other Languages : Python, Bash
-- Frameworks : Tailwind, Bootstrap, React[Learning]
+- Frameworks : Tailwind, Bootstrap, React[Learning], Bukkit API
 
 ## Tools I use
 
