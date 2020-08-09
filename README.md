@@ -4,8 +4,6 @@
 
 <!-- <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'> -->
 
-I am from Pune, Maharashtra. Currently I am doing B.E in Computer Science from Modern Education Society's College Of Engineering, Pune.
-
 ```javascript
 const vivek = {
   code: ["Javascript", "C++", "Python", "Java"],
