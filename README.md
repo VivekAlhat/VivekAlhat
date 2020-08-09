@@ -6,17 +6,29 @@
 
 I am from Pune, Maharashtra. Currently I am doing B.E in Computer Science from Modern Education Society's College Of Engineering, Pune.
 
-## Technologies I know
+### A little more about me
 
-- Main Languages : C++, Java, Javascript, HTML, CSS
-- Other Languages : Python, Bash
-- Frameworks : Tailwind, Bootstrap, React[Learning], Bukkit API
-
-## Tools I use
-
-- OS : Ubuntu 20.04 LTS dual booted with Windows 10
-- Shell : ZSH
-- DE : GNOME
-- Terminal : Tilix
-- Text Editor : VS Code with VIM bindings
-- Others : Git, Intellij IDEA
+```javascript
+const vivek = {
+  code: ["Javascript", "C++", "Python", "Java"],
+  technologies: {
+    frontEnd: {
+      js: ["React"],
+      css: ["tailwind", "bootstrap"],
+    },
+    backEnd: {
+      js: ["node", "express"],
+    },
+    databases: ["mongo", "MySql"],
+    misc: ["jQuery", "p5.js", "Heroku", "Bukkit API", "Shell Scripting", "git"],
+  },
+  architecture: ["Progressive web applications", "Single page applications"],
+  favorites: {
+    os: ["Ubuntu", "Windows 10"],
+    shell: "ZSH",
+    environment: ["GNOME", "KDE"],
+    terminal: "Tilix",
+    text_editor: ["VS code", "vim"],
+  },
+};
+```
