@@ -26,7 +26,7 @@ const vivek = {
     shell: "ZSH",
     environment: ["GNOME", "KDE"],
     terminal: "Tilix",
-    text_editor: ["VS code", "vim"],
-  },
+    text_editor: ["VS code", "vim"]
+  }
 };
 ```
