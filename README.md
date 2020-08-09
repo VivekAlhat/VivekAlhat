@@ -5,6 +5,7 @@
 <!-- <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'> -->
 
 ```javascript
+// Little info about myself
 const vivek = {
   code: ["Javascript", "C++", "Python", "Java"],
   technologies: {
