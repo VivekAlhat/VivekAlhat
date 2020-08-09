@@ -2,7 +2,7 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/seong-yun-byeon-8183a8113/)](https://www.linkedin.com/in/vivekalhat)
 
-<img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'>
+<!-- <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'> -->
 
 I am from Pune, Maharashtra. Currently I am doing B.E in Computer Science from Modern Education Society's College Of Engineering, Pune.
 
