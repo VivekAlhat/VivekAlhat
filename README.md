@@ -11,13 +11,13 @@ const vivek = {
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["tailwind", "bootstrap"],
+      css: ["bootstrap"],
     },
     backEnd: {
       js: ["node", "express"],
     },
     databases: ["mongo", "MySql"],
-    misc: ["jQuery", "p5.js", "Heroku", "Bukkit API", "Shell Scripting", "git"],
+    misc: ["jQuery", "p5.js", "Heroku", "Bukkit API", "Shell Scripting", "git", "Postman"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
   favorites: {
