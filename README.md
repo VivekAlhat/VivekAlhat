@@ -16,7 +16,7 @@ const vivek = {
     backEnd: {
       js: ["node", "express"],
     },
-    databases: ["mongo", "MySql"],
+    databases: ["MongoDB", "MySql"],
     misc: ["jQuery", "p5.js", "Heroku", "Bukkit API", "Shell Scripting", "git", "Postman"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
