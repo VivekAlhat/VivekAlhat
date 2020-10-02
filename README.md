@@ -17,7 +17,7 @@ const vivek = {
       js: ["node", "express"],
     },
     databases: ["MongoDB", "MySql"],
-    misc: ["jQuery", "p5.js", "Heroku", "Bukkit API", "Shell Scripting", "git", "Postman"],
+    misc: ["jQuery", "Heroku", "Bukkit API", "Shell Scripting", "git", "Postman"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
   favorites: {
@@ -25,7 +25,7 @@ const vivek = {
     shell: "ZSH",
     environment: ["GNOME", "KDE"],
     terminal: "Tilix",
-    text_editor: ["VS code", "vim"]
+    text_editor: ["VS code", "DOOM with evil mode"]
   }
 };
 ```
