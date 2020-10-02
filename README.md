@@ -25,7 +25,7 @@ const vivek = {
     shell: "ZSH",
     environment: ["GNOME", "KDE"],
     terminal: "Tilix",
-    text_editor: ["VS code", "DOOM with evil mode"]
+    text_editor: ["VS code", "DOOM Emacs with evil mode"]
   }
 };
 ```
