@@ -7,17 +7,17 @@
 ```javascript
 // Little info about myself
 const vivek = {
-  code: ["Javascript", "C++", "Python", "Java"],
+  code: ["Javascript", "C++"],
   technologies: {
     frontEnd: {
       js: ["React"],
-      css: ["bootstrap"],
+      css: ["Bootstrap", "Semantic", "Material"],
     },
     backEnd: {
-      js: ["node", "express"],
+      js: ["Node", "Express"],
     },
     databases: ["MongoDB", "MySql"],
-    misc: ["jQuery", "Heroku", "Bukkit API", "Shell Scripting", "git", "Postman"],
+    misc: ["jQuery", "Heroku", "Bukkit API", "Firebase", "Git", "Postman"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
   favorites: {
@@ -25,7 +25,7 @@ const vivek = {
     shell: "ZSH",
     environment: ["GNOME", "KDE"],
     terminal: "Tilix",
-    text_editor: ["VS code", "DOOM Emacs with evil mode"]
+    text_editor: ["VS code", "Neovim"]
   }
 };
 ```
