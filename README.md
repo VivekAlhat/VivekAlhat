@@ -1,7 +1,5 @@
 <h1>Hello there, I'm <a href="https://www.vivekalhat.ml">Vivek</a>!</h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/vivekalhat/)](https://www.linkedin.com/in/vivekalhat)
-
 <!-- <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'> -->
 
 ```javascript
@@ -17,14 +15,14 @@ const vivek = {
       js: ["Node", "Express"],
     },
     databases: ["MongoDB", "MySql"],
-    misc: ["jQuery", "Heroku", "Bukkit API", "Firebase", "Git", "Postman"],
+    misc: ["jQuery", "Heroku", "Bukkit API", "Firebase", "Git", "Postman", "SASS"],
   },
   architecture: ["Progressive web applications", "Single page applications"],
   favorites: {
-    os: ["Ubuntu", "Windows 10"],
+    os: ["Manjaro"],
     shell: "ZSH",
-    environment: ["GNOME", "KDE"],
-    terminal: "Tilix",
+    environment: ["XFCE", "KDE"],
+    terminal: "Alacritty",
     text_editor: ["VS code", "Neovim"]
   }
 };
