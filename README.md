@@ -1,37 +1,14 @@
-<h1>Hello there, I'm <a href="https://www.vivekalhat.ml">Vivek</a>!</h1>
+<p>
+<!-- <img align="right" src="gilfoyle.gif"> -->
+    <h2>Hey!! I'm Vivek 👋</h2>
+    <p>I am passionate about writing code and building software.</p>
+    <ul>
+      <li>💰 I am learning <strong>MERN stack</strong> and TDD</li>
+      <li>🗿 I enjoy customizing linux distros</li>
+      <li>🤝 I am currently <strong>open to new opportunities</strong></li>
+      <li>👀 I am looking for help to learn more about <strong>open source</strong></li>
+      <li>💬 Ask me about: <strong>web design, linux and anime</strong></li>
+    </ul>
+</p>
 
-<!-- <img align='right' src='https://media2.giphy.com/media/du3J3cXyzhj75IOgvA/giphy.gif' width='200"'> -->
-
-```javascript
-// Little info about myself
-const vivek = {
-  code: ["Javascript", "C++"],
-  technologies: {
-    frontEnd: {
-      js: ["React"],
-      css: ["Bootstrap", "Semantic", "Material"],
-    },
-    backEnd: {
-      js: ["Node", "Express"],
-    },
-    databases: ["MongoDB", "MySql"],
-    misc: [
-      "jQuery",
-      "Heroku",
-      "Bukkit API",
-      "Firebase",
-      "Git",
-      "Postman",
-      "SASS",
-    ],
-  },
-  architecture: ["Progressive web applications", "Single page applications"],
-  favorites: {
-    os: ["Manjaro"],
-    shell: "ZSH",
-    environment: ["XFCE", "KDE"],
-    terminal: "Alacritty",
-    text_editor: ["VS code", "Neovim"],
-  },
-};
-```
+> It is better to live your own destiny imperfectly than to live an imitation of somebody else's life with perfection.
