@@ -15,7 +15,15 @@ const vivek = {
       js: ["Node", "Express"],
     },
     databases: ["MongoDB", "MySql"],
-    misc: ["jQuery", "Heroku", "Bukkit API", "Firebase", "Git", "Postman", "SASS"],
+    misc: [
+      "jQuery",
+      "Heroku",
+      "Bukkit API",
+      "Firebase",
+      "Git",
+      "Postman",
+      "SASS",
+    ],
   },
   architecture: ["Progressive web applications", "Single page applications"],
   favorites: {
@@ -23,7 +31,7 @@ const vivek = {
     shell: "ZSH",
     environment: ["XFCE", "KDE"],
     terminal: "Alacritty",
-    text_editor: ["VS code", "Neovim"]
-  }
+    text_editor: ["VS code", "Neovim"],
+  },
 };
 ```
