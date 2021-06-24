@@ -7,7 +7,7 @@
       <li>🗿 I enjoy customizing linux distros</li>
       <li>🤝 I am currently <strong>open to new opportunities</strong></li>
       <li>👀 I am looking for help to learn more about <strong>open source</strong></li>
-      <li>💬 Ask me about: <strong>web design, linux and anime</strong></li>
+      <li>💬 Ask me about: <strong>web development, linux and anime</strong></li>
     </ul>
 </p>
 
