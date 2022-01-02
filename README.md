@@ -4,9 +4,9 @@
     <ul>
         <li>💰 I am currently focusing on Test Driven Development</li>
         <li>⌨️ I use React, JavaScript, TypeScript almost everyday at work</li>
-        <li>👀 I am looking for help to learn more about <strong>open source</strong></li>
         <li>🗿 I enjoy customizing linux distros</li>
-        <li>💬 Ask me about - <strong>web development, linux and anime</strong></li>
+        <li>👀 I am looking for help to learn more about <strong>open source</strong></li>
+        <li>💬 Ask me about - <strong>tech, linux and anime</strong></li>
     </ul>
     <img src="gilfoyle.gif" alt="Silicon Valley GIF" />
 </div>
