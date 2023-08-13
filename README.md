@@ -12,7 +12,10 @@
 
 <table>
     <tr>
-        <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VivekAlhat&show_icons=true&include_all_commits=true&hide_border=true&PAT_1" alt="Github stats" /></a></td>
         <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=vivekalhat&hide_border=true" alt="Wakatime stats" /></a></td>
+        <td><a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=VivekAlhat&show_icons=true&include_all_commits=true&hide_border=true&PAT_1" alt="Github stats" /></a>
+</td>
     </tr>
 </table>
+
+
