@@ -10,6 +10,4 @@
     </ul>
 </div>
 
-![](https://komarev.com/ghpvc/?username=VivekAlhat)
-
 
